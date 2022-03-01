@@ -1,0 +1,24 @@
+.carousel-item{
+    width: 100%;
+    height: 65vh;
+}
+.xyx{
+    width: 100%;
+    height: 65vh;
+}
+.cardmar{
+    margin-top: 25px;
+    margin-right:25px ;
+    margin-bottom: 25px;
+
+}
+.backcol{
+    background-color: blanchedalmond;
+}
+.navcol{
+    background-color: rgba(90, 87, 59, 0.815);
+}
+.xccc{
+    color: blue;
+    background-color: brown;
+}
